@@ -4,3 +4,5 @@ Tournament consists of a one major round. During the round, all teams that are p
 <br>
 <br>
 <ol>
+<li>Display match summary for a given match.</li>
+<li>At a given time the program displays the best 5 batsmen.</li>
